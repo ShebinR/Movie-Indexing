@@ -1,0 +1,257 @@
+2
+00:00:28,405 --> 00:00:32,367
+<i>The Tesseract has awakened.</i>
+
+3
+00:00:33,034 --> 00:00:38,039
+It is on a little world, a human world.
+
+4
+00:00:38,707 --> 00:00:42,127
+They would wield its power,
+
+5
+00:00:42,419 --> 00:00:48,133
+but our ally knows its
+workings as they never will.
+
+6
+00:00:49,634 --> 00:00:52,762
+<i>He is ready to lead</i>
+
+7
+00:00:52,929 --> 00:00:58,393
+<i>and our force, our Chitauri, will follow.</i>
+
+8
+00:00:59,978 --> 00:01:02,439
+<i>A world will be his.</i>
+
+9
+00:01:02,605 --> 00:01:05,734
+<i>The universe, yours.</i>
+
+10
+00:01:05,900 --> 00:01:11,531
+<i>And the humans,
+what can they do but burn?</i>
+
+11
+00:01:26,004 --> 00:01:27,172
+<i>All personnel,</i>
+
+12
+00:01:27,255 --> 00:01:29,591
+<i>the evacuation order
+has been confirmed.</i>
+
+13
+00:02:01,456 --> 00:02:02,999
+How bad is it?
+
+14
+00:02:03,166 --> 00:02:06,294
+That's the problem, sir. We don't know.
+
+15
+00:02:10,048 --> 00:02:12,967
+Dr Selvig read an energy surge
+from the Tesseract four hours ago.
+
+16
+00:02:13,051 --> 00:02:14,969
+NASA didn't authorise Selvig
+to go to test phase.
+
+17
+00:02:15,136 --> 00:02:17,388
+He wasn't testing it.
+He wasn't even in the room.
+
+18
+00:02:17,555 --> 00:02:18,556
+Spontaneous event.
+
+19
+00:02:18,640 --> 00:02:19,641
+It just turned itself on?
+
+20
+00:02:20,058 --> 00:02:21,142
+Where are the energy levels now?
+
+21
+00:02:21,309 --> 00:02:23,520
+Climbing. When Selvig couldn't
+shut it down, we ordered evac.
+
+22
+00:02:23,686 --> 00:02:24,729
+How long to get everyone out?
+
+23
+00:02:25,104 --> 00:02:26,481
+Campus should be clear
+in the next half-hour.
+
+24
+00:02:26,648 --> 00:02:27,941
+Do better.
+
+25
+00:02:28,858 --> 00:02:30,860
+Sir, evacuation may be futile.
+
+26
+00:02:31,027 --> 00:02:32,278
+We should tell them
+to go back to sleep?
+
+27
+00:02:32,612 --> 00:02:34,864
+If we can't control
+the Tesseract's energy,
+
+28
+00:02:35,031 --> 00:02:37,408
+there may not be
+a minimum safe distance.
+
+29
+00:02:37,492 --> 00:02:38,576
+I need you to make sure
+
+30
+00:02:38,660 --> 00:02:40,370
+the Phase 2 prototypes
+are shipped out.
+
+31
+00:02:40,495 --> 00:02:42,580
+Sir, is that really a priority right now?
+
+32
+00:02:42,747 --> 00:02:44,499
+Until such time as the world ends,
+
+33
+00:02:44,582 --> 00:02:46,459
+we will act as though
+it intends to spin on.
+
+34
+00:02:47,585 --> 00:02:49,003
+Clear out the tech below.
+
+35
+00:02:49,170 --> 00:02:51,256
+Every piece of Phase 2
+on a truck and gone.
+
+36
+00:02:51,422 --> 00:02:52,841
+Yes, sir.
+
+37
+00:02:53,258 --> 00:02:54,425
+With me.
+
+38
+00:02:57,428 --> 00:02:58,429
+Talk to me, Doctor.
+
+39
+00:03:00,431 --> 00:03:01,850
+Director.
+
+40
+00:03:02,016 --> 00:03:03,726
+Is there anything we know for certain?
+
+41
+00:03:03,893 --> 00:03:06,145
+The Tesseract is misbehaving.
+
+42
+00:03:06,312 --> 00:03:09,148
+- Is that supposed to be funny?
+- No, it's not funny at all.
+
+43
+00:03:09,315 --> 00:03:12,652
+The Tesseract is not only
+active, she's behaving.
+
+44
+00:03:13,069 --> 00:03:14,112
+I assume you pulled the plug.
+
+45
+00:03:14,279 --> 00:03:15,989
+She's an energy source.
+
+46
+00:03:16,322 --> 00:03:19,367
+We turn off the power,
+she turns it back on.
+
+47
+00:03:19,450 --> 00:03:20,577
+If she reaches peak level...
+
+48
+00:03:20,743 --> 00:03:24,205
+We prepared for this, Doctor.
+Harnessing energy from space.
+
+49
+00:03:24,372 --> 00:03:25,790
+But we don't have the harness.
+
+50
+00:03:25,874 --> 00:03:26,958
+My calculations are far from complete.
+
+51
+00:03:27,709 --> 00:03:30,295
+And she's throwing off
+interference, radiation.
+
+52
+00:03:30,461 --> 00:03:31,921
+Nothing harmful,
+low levels of gamma radiation.
+
+53
+00:03:33,089 --> 00:03:34,674
+That can be harmful.
+
+54
+00:03:35,133 --> 00:03:36,593
+Where's Agent Barton?
+
+55
+00:03:36,676 --> 00:03:38,469
+The Hawk?
+
+56
+00:03:39,304 --> 00:03:40,972
+Up in his nest, as usual.
+
+57
+00:03:42,807 --> 00:03:44,642
+<i>Agent Barton, report.</i>
+
+58
+00:03:45,476 --> 00:03:46,686
+<i>I gave you this detail</i>
+
+59
+00:03:46,769 --> 00:03:48,354
+<i>so you could keep
+a close eye on things.</i>
+
+60
+00:03:48,563 --> 00:03:49,981
+Well, I see better from a distance.
+
